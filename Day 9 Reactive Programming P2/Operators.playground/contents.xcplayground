@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='Collect'/>
+        <page name='Map'/>
+        <page name='Filter'/>
+        <page name='CompactMap'/>
+        <page name='Append'/>
+        <page name='CombineLatest'/>
+        <page name='Min'/>
+        <page name='Count'/>
+        <page name='Contains'/>
+        <page name='Timer'/>
+        <page name='Published'/>
+        <page name='Challenge 1'/>
+        <page name='Challenge 2'/>
+    </pages>
+</playground>
